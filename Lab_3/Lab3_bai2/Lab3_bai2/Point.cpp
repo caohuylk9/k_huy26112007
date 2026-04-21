@@ -5,7 +5,7 @@
 	using namespace std;
 	void Point::Nhap()
 	{
-		// Hàm nhập vaofn tọa độ x,y
+		// Hàm nhập vào tọa độ x,y
 		cout << "Nhap hoanh do: ";
 		cin >> x;
 		cout << "Nhap tung do: ";
